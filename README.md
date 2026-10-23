@@ -2,6 +2,25 @@
 
 A Laravel-based library management system with book catalog, borrowing system, and availability tracking.
 
+Repository: https://github.com/0xyz-exe/library-management-app-laravel
+
+## Screenshots
+
+### Book Catalog & Search
+![Book catalog](docs/screenshots/01_catalog.png)
+
+### Book Details & Borrowing
+![Book details](docs/screenshots/02_book_detail.png)
+
+### Borrowings History & Return Management
+![Borrowings](docs/screenshots/03_borrowings.png)
+
+### Inventory Management
+![Manage books](docs/screenshots/04_manage_books.png)
+
+### Authentication
+![Authentication](docs/screenshots/05_login.png)
+
 ## Features
 
 - ✅ User authentication (Laravel Breeze)
