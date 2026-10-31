@@ -6,20 +6,12 @@ Repository: https://github.com/0xyz-exe/library-management-app-laravel
 
 ## Screenshots
 
-### Book Catalog & Search
-![Book catalog](docs/screenshots/01_catalog.png)
-
-### Book Details & Borrowing
-![Book details](docs/screenshots/02_book_detail.png)
-
-### Borrowings History & Return Management
-![Borrowings](docs/screenshots/03_borrowings.png)
-
-### Inventory Management
-![Manage books](docs/screenshots/04_manage_books.png)
-
-### Authentication
-![Authentication](docs/screenshots/05_login.png)
+| Tampilan | Preview |
+|---|---|
+| **Katalog Buku & Pelacakan Ketersediaan Stok**<br>Tampilan utama koleksi buku perpustakaan dengan kartu informasi judul, ISBN, penerbit, kategori, status ketersediaan stok buku, dan filter pencarian | ![Katalog Buku & Pelacakan Ketersediaan Stok](docs/screenshots/01-dashboard-overview.png) |
+| **Formulir Peminjaman Buku Perpustakaan**<br>Formulir transaksi peminjaman buku dengan ringkasan metadata buku terpilih, tanggal peminjaman, dan penentuan batas waktu pengembalian (due date 14 hari) | ![Formulir Peminjaman Buku Perpustakaan](docs/screenshots/02-borrow-book-form.png) |
+| **Riwayat Peminjaman & Manajemen Pengembalian**<br>Tabel riwayat peminjaman buku aktif dengan indikator badge status (Borrowed, Overdue, Returned) dan tombol aksi cepat pengembalian buku | ![Riwayat Peminjaman & Manajemen Pengembalian](docs/screenshots/03-my-borrowings-active.png) |
+| **Formulir Registrasi Buku Baru ke Katalog**<br>Formulir penambahan koleksi buku baru dengan input nomor unik ISBN, nama penulis, penerbit, tahun publikasi, klasifikasi kategori, dan total stok fisik | ![Formulir Registrasi Buku Baru ke Katalog](docs/screenshots/04-add-book-catalog.png) |
 
 ## Features
 
